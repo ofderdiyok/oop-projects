@@ -1,0 +1,17 @@
+print
+Petrol 28 Bugatti 927643.27 0 37
+Electric 11 CadillacCadillacCad 1198900.16 3 6
+Petrol 27 CitroÃ«n 350616.88 1 89
+Electric 29 Ford 1031269.67 7 711
+Electric 6 Cadillac 1047517.78 6 192
+Bus 20 Daihatsu 1067651.31 9.89 15
+Truck 13 Chrysler 596536.82 5.74 5432
+Electric 3 Chevrolet 122815.82 5 206
+Truck 3 Audi 96803.14 0.17 2789
+Electric 11 CitroÃ«n 981597.07 7 603
+Petrol 5 Abarth 460337.15 7 56
+Petrol 1 Daihatsu 109134.32 3 21
+print
+Truck 20 Abarth 118238.17 2.98 3498
+Petrol 26 BMW 127400.80 3 59
+print
