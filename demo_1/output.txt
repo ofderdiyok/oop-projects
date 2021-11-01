@@ -1,0 +1,62 @@
+COMMAND:
+LIST COURSES FOR STUDENT 958323
+RESULT:
+101 Introduction_to_Programming_I
+205 Discrete_Structures
+103 Introduction_to_Programming_Laboratory_I
+104 Introduction_to_Programming_Laboratory_II
+
+COMMAND:
+LIST STUDENTS FOR COURSE 104
+RESULT:
+209587 Melis Parla
+209584 Burcu Dede
+958323 Kerem Derman
+881291 Erkan Kocaayak
+
+COMMAND:
+LIST COURSES ALL
+RESULT:
+101 Introduction_to_Programming_I
+103 Introduction_to_Programming_Laboratory_I
+102 Introduction_to_Programming_II
+104 Introduction_to_Programming_Laboratory_II
+201 Data_Structures
+203 Software_Laboratory_I
+205 Discrete_Structures
+
+COMMAND:
+LIST GRADES FOR COURSE 104 AND STUDENT 958323
+RESULT:
+82 96
+
+COMMAND:
+LIST GRADES FOR STUDENT 230863
+RESULT:
+101 55 83 72
+201 22 82
+103 69 85
+
+COMMAND: 
+CALCULATE FINALGRADE FOR COURSE 205 AND STUDENT 958323
+RESULT:
+81.00
+
+COMMAND:
+CALCULATE ALL FINALGRADES FOR STUDENT 209587
+RESULT:
+103 46.40
+104 74.80
+102 75.25
+203 67.50
+
+COMMAND:
+CALCULATE AVERAGE GRADES FOR COURSE 104
+RESULT:
+75.75 80.75
+
+COMMAND:
+FIND BEST OF COURSE 104
+RESULT:
+958323 Kerem Derman 90.40
+

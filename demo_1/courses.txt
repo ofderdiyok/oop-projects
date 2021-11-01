@@ -1,0 +1,7 @@
+101 Introduction_to_Programming_I
+103 Introduction_to_Programming_Laboratory_I
+102 Introduction_to_Programming_II
+104 Introduction_to_Programming_Laboratory_II
+201 Data_Structures
+203 Software_Laboratory_I
+205 Discrete_Structures
